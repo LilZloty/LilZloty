@@ -5,7 +5,7 @@ I'm a French Front-end Developer (E-Commerce)! 💻
 📚 I’m still learning with real projects mainly on the CMS Shopify or Wordpress.
 
 ⚡ Fun fact: I love lifting weight to decompress, Travel to unknow location, Gaming and Coding !
-
+<hr></hr>
 
 Certifications and Challenges 🎓
 
