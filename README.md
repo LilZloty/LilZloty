@@ -13,7 +13,7 @@
   ✔️ HTML / CSS / SCSS / Javascript / Liquid / JSON / JQUERY<br>
   ⏳(20%) Three.js<br>
   ⏳(80%) React <br>
-  ⏳(10%) Bootsrap</li>
+  ⏳(10%) Bootstrap</li>
   <br>
 <li> Openclassroom Certifications :<br>
 HTLM & CSS ✔️ </li>
