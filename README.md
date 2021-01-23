@@ -1,6 +1,6 @@
 <h3>Hi there, It's Théo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
 
-<h1>I'm a French Front-end Developer (E-Commerce)! 💻 </h1>
+<h1>I'm a French Front-end Developer (E-Commerce) 💻 </h1>
 
 📚 I’m still learning with real projects mainly on the CMS Shopify or Wordpress.
 
