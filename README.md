@@ -1,8 +1,11 @@
 Hi there, It's Théo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm a French Front-end Developer (E-Commerce)! 💻
+
 📚 I’m still learning with real projects mainly on the CMS Shopify or Wordpress.
+
 ⚡ Fun fact: I love lifting weight to decompress, Travel to unknow location, Gaming and Coding !
+
 
 Certifications and Challenges 🎓
 
@@ -16,13 +19,16 @@ SoloLearn Certificates :
   
   ⏳(10%) Bootsrap
   
+  
 Openclassroom Certifications :
 
 HTLM & CSS ✔️
 
+
 Frontend Mentor Challenges :
 
   1 Projects
+
 
 Languages and Tools 🛠️
 
@@ -34,6 +40,7 @@ Shopify - Shopify Theme Kit
 Wordpress - Woocommerce / Elementor / Divi 
 
 ⏳ - React Vue.js Node.js
+
 
 
 Connect with me 💬
