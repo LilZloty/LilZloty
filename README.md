@@ -16,7 +16,7 @@
   ⏳(10%) Bootstrap</li>
   <br>
 <li> Openclassroom Certifications :<br>
-HTLM & CSS ✔️ </li>
+HTML & CSS ✔️ </li>
 <br>
 <li>Frontend Mentor Challenges :<br>
   1 Projects</li>
