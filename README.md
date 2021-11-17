@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/54123008/142245478-6eb4aabf-6b26-4e94-9833-9fc9a7fd016d.gif" width="300px" style="border-radius: 6px;">
+<img src="https://user-images.githubusercontent.com/54123008/142246203-140dfb28-bb48-44e3-bc3f-87fe11c16fa9.gif" width="300px" style="border-radius: 6px;">
 <h3>Hi there, It's Théo</h3>
 
 <h1>I'm a French Front-end Developer (E-Commerce) 💻 <br> living in Mexico, Guadalajara.</h1>
