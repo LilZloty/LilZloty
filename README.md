@@ -8,7 +8,6 @@ i mainly do web development tasks, and also web design !
 Currently, i am trying to learn Blockchain Development on Ethereum and Solana using Solidity and also <br>
 all my knowledge in front-end web development, both are compatible and necessary. 
 
-⚡ Fun fact: I love lifting weight to decompress, Travel to unknow location, Gaming and Coding !
 <hr></hr>
 
 <h3>Certifications and Challenges 🎓</h3>
