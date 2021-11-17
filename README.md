@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/54123008/142243202-f79870e3-cd3a-474c-b3ec-b423277b4cec.gif" width="400" style="border-radius: 6px;">
-<h3>Hi there, It's Théo !</h3>
+<h1>Hi there, It's Théo !</h3>
 
-<h1>I'm a French Front-end Developer (E-Commerce) 💻 <br> living in Mexico, Guadalajara.</h1>
+<h3>I'm a French Front-end Developer (E-Commerce) 💻 <br> living in Mexico, Guadalajara.</h1>
 
 I work everyday has a Freelance Shopify Developer, where i develop and design for e-commerce brands <br> who want to start or are already existing. 
 
