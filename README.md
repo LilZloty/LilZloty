@@ -1,11 +1,11 @@
 <h3>Hi there, It's Théo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
 
-<h1>I'm a French Front-end Developer (E-Commerce) 💻 living in Mexico, Guadalajara.</h1>
+<h1>I'm a French Front-end Developer (E-Commerce) 💻 <br> living in Mexico, Guadalajara.</h1>
 
-I work everyday has a Freelancer on ecommerce shop from Shopify to Wordpress/Woocommerce, 
+I work everyday has a Freelancer on ecommerce shop from Shopify to Wordpress/Woocommerce, <br>
 i mainly do web development tasks, and also web design !
 
-Currently, i am trying to learn Blockchain Development on Ethereum and Solana using Solidity and also 
+Currently, i am trying to learn Blockchain Development on Ethereum and Solana using Solidity and also <br>
 all my knowledge in front-end web development, both are compatible and necessary. 
 
 ⚡ Fun fact: I love lifting weight to decompress, Travel to unknow location, Gaming and Coding !
