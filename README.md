@@ -14,7 +14,7 @@ all my knowledge in front-end web development is used, thats the beauty of it, b
 <ul>
 <li> SoloLearn Certificates :<br>
   ✔️ HTML / CSS / SCSS / Javascript / Liquid / JSON / JQUERY<br>
-  ✔️ React js / Three.js / Bootstrap / Node.js / Shopify Hydrogen
+  ✔️ React js / Three.js / Bootstrap / Node.js / Shopify Hydrogen<br>
   ✔️ Git/Github / VS Code / Shopify CLI 
   <br>
 <li> Openclassroom Certifications :<br>
