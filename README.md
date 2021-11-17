@@ -1,8 +1,12 @@
 <h3>Hi there, It's Théo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
 
-<h1>I'm a French Front-end Developer (E-Commerce) 💻 </h1>
+<h1>I'm a French Front-end Developer (E-Commerce) 💻 living in Mexico, Guadalajara.</h1>
 
-📚 I’m still learning with real projects mainly on the CMS Shopify or Wordpress.
+I work everyday has a Freelancer on ecommerce shop from Shopify to Wordpress/Woocommerce, i mainly do web development tasks,
+and also web design !
+
+Currently, i am trying to learn blockchain development on ethereum and solana using Solidity and also all my knowledge in front-end web development,
+both are compatible and necessary. 
 
 ⚡ Fun fact: I love lifting weight to decompress, Travel to unknow location, Gaming and Coding !
 <hr></hr>
@@ -11,9 +15,7 @@
 <ul>
 <li> SoloLearn Certificates :<br>
   ✔️ HTML / CSS / SCSS / Javascript / Liquid / JSON / JQUERY<br>
-  ⏳(20%) Three.js<br>
-  ⏳(80%) React <br>
-  ⏳(10%) Bootstrap</li>
+  ✔️ React js / Three.js / Bootstrap
   <br>
 <li> Openclassroom Certifications :<br>
 HTML & CSS ✔️ </li>
