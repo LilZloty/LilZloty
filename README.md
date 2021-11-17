@@ -1,10 +1,9 @@
 <img src="https://user-images.githubusercontent.com/54123008/142243202-f79870e3-cd3a-474c-b3ec-b423277b4cec.gif" width="400" style="border-radius: 6px;">
-<h1>Hi there, It's Théo !</h1>
+<h1>  Hi there, It's Théo ! </h1>
 
-<h2>I'm a French Front-end Developer (E-Commerce) 💻 <br> living in Mexico, Guadalajara.</h2>
+<h3>  I'm a French Front-end Developer (E-Commerce) 💻 <br> living in Mexico, Guadalajara.  </h3>
 
 I work everyday has a Freelance Shopify Developer, where i develop and design for e-commerce brands <br> who want to start or are already existing. 
-
 
 Currently, i am trying to learn Blockchain Development on Ethereum and Solana using Solidity <br>
 all my knowledge in front-end web development is used, thats the beauty of it, both are compatible and necessary. 
