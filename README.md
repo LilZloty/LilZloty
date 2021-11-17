@@ -40,11 +40,8 @@ Languages and Tools
   <li>
 <p>
 <g-emoji class="g-emoji" alias="hourglass_flowing_sand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23f3.png">⏳</g-emoji>
-  <img src="https://user-images.githubusercontent.com/54123008/142234284-befbd3d5-38dc-499f-a3ff-0ee8baa43993.png" width="30px">
-  ![](https://user-images.githubusercontent.com/54123008/142234284-befbd3d5-38dc-499f-a3ff-0ee8baa43993.png)
-  ![image](https://user-images.githubusercontent.com/54123008/142234284-befbd3d5-38dc-499f-a3ff-0ee8baa43993.png)
-![ethereum-1-283135](https://user-images.githubusercontent.com/54123008/142234291-9ab4478f-0cdb-4833-8e2c-d48561ef0a35.png)
-![5426](https://user-images.githubusercontent.com/54123008/142234284-befbd3d5-38dc-499f-a3ff-0ee8baa43993.png)
+  <img src="https://user-images.githubusercontent.com/54123008/142234284-befbd3d5-38dc-499f-a3ff-0ee8baa43993.png" width="26px">
+  <img src=" https://user-images.githubusercontent.com/54123008/142234291-9ab4478f-0cdb-4833-8e2c-d48561ef0a35.png" width="26px">
     </p>
 </li>
 </ul>
