@@ -2,8 +2,8 @@
 
 <h1>I'm a French Front-end Developer (E-Commerce) 💻 <br> living in Mexico, Guadalajara.</h1>
 
-I work everyday has a Freelance Shopify Developer, building brands for e-commerce shop, <br>
-i mainly do web development tasks, and also web design !
+I work everyday has a Freelance Shopify Developer, i develop and design for e-commerce brands <br> who want to start or are already existing. 
+
 
 Currently, i am trying to learn Blockchain Development on Ethereum and Solana using Solidity and also <br>
 all my knowledge in front-end web development, both are compatible and necessary. 
