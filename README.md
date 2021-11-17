@@ -6,7 +6,7 @@ I work everyday has a Freelance Shopify Developer, where i develop and design fo
 
 
 Currently, i am trying to learn Blockchain Development on Ethereum and Solana using Solidity <br>
-all my knowledge in front-end web development is used thats the beauty of it, both are compatible and necessary. 
+all my knowledge in front-end web development is used, thats the beauty of it, both are compatible and necessary. 
 
 <hr></hr>
 
