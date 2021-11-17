@@ -1,5 +1,5 @@
-<img src="https://user-images.githubusercontent.com/54123008/142243202-f79870e3-cd3a-474c-b3ec-b423277b4cec.gif" width="" style="border-radius: 6px;">
-<h3>Hi there, It's Théo</h3>
+<img src="https://user-images.githubusercontent.com/54123008/142243202-f79870e3-cd3a-474c-b3ec-b423277b4cec.gif" width="400" style="border-radius: 6px;">
+<h3>Hi there, It's Théo !</h3>
 
 <h1>I'm a French Front-end Developer (E-Commerce) 💻 <br> living in Mexico, Guadalajara.</h1>
 
