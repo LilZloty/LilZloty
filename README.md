@@ -52,7 +52,7 @@ HTML & CSS ✔️ </li>
 </ul>
 <hr></hr>
 <br>
-Connect with me 
+<h3>Connect with me </h3>
 <ul>
   <li>  Youtube - https://www.youtube.com/channel/UChH_oneD9OKdCK-ChHFz-2w </li>
   <li>  Gmail - sotdg.contact@gmail.com </li>
