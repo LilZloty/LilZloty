@@ -10,7 +10,7 @@ Currently, i am learning Blockchain Development on Ethereum and Solana using Sol
 
 <h3>Certifications and Challenges 🎓</h3>
 <ul>
-<li> SoloLearn Certificates :<br>
+<li> Certificates :<br>
   ✔️ HTML / CSS / SCSS / Javascript / Liquid / JSON / JQUERY<br>
   ✔️ React js / Three.js / Bootstrap / Node.js / Shopify Hydrogen<br>
   ✔️ Git/Github / VS Code / Shopify CLI 
