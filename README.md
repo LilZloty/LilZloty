@@ -33,7 +33,10 @@ Tech stack
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 <img align="center" alt="React" title="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-<img align="center" alt="Node.js" title="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width:100%;"></a></p>
+<img align="center" alt="Node.js" title="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/54123008/193871776-a6f8728c-cc90-4043-b247-74c47b89ca80.png">
+<img align="center" src="https://user-images.githubusercontent.com/54123008/193871776-a6f8728c-cc90-4043-b247-74c47b89ca80.png" width="26px"></a>
+</p>
 </li>
 <li>
 <p>
@@ -44,8 +47,6 @@ Tech stack
   <img align="center" src="https://user-images.githubusercontent.com/54123008/142234284-befbd3d5-38dc-499f-a3ff-0ee8baa43993.png" width="26px"></a>
    <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/54123008/142234291-9ab4478f-0cdb-4833-8e2c-d48561ef0a35.png">
   <img align="center" src="https://user-images.githubusercontent.com/54123008/142234291-9ab4478f-0cdb-4833-8e2c-d48561ef0a35.png" width="26px"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/54123008/193871776-a6f8728c-cc90-4043-b247-74c47b89ca80.png">
-  <img align="center" src="https://user-images.githubusercontent.com/54123008/193871776-a6f8728c-cc90-4043-b247-74c47b89ca80.png" width="26px"></a>
     </p>
 </li>
 </ul>
