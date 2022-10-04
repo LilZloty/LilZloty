@@ -51,17 +51,19 @@ HTML & CSS ✔️ </li>
 </li>
 </ul>
 <h3> GFX and VFX stack : </h3>
+<ul>
  <li>
 <p>
-<g-emoji class="g-emoji" alias="hourglass_flowing_sand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23f3.png">⏳</g-emoji> - 
+<g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> - 
    <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/54123008/142237852-374752be-e565-4331-9613-b028acbcc32e.png">
   <img align="center" src="https://user-images.githubusercontent.com/54123008/142237852-374752be-e565-4331-9613-b028acbcc32e.png" width="26px"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/54123008/142234284-befbd3d5-38dc-499f-a3ff-0ee8baa43993.png">
   <img align="center" src="https://user-images.githubusercontent.com/54123008/142234284-befbd3d5-38dc-499f-a3ff-0ee8baa43993.png" width="26px"></a>
    <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/54123008/142234291-9ab4478f-0cdb-4833-8e2c-d48561ef0a35.png">
   <img align="center" src="https://user-images.githubusercontent.com/54123008/142234291-9ab4478f-0cdb-4833-8e2c-d48561ef0a35.png" width="26px"></a>
-    </p>
-</li>
+</p>
+  </li>
+    </ul>
 <hr></hr>
 <br>
 <h3>Connect with me </h3>
