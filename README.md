@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/54123008/142243202-f79870e3-cd3a-474c-b3ec-b423277b4cec.gif" width="400" style="border-radius: 6px;">
 <h1>  Hi there, It's Théo ! </h1>
-<h3>  I'm a French Front-end Developer (E-Commerce) 💻 <br> living in Mexico, Guadalajara</h3>
+<h3>  I'm a French Front-end Developer (E-Commerce) 💻 <br> living in Mexico, Guadalajara.</h3>
 
 I work everyday has a Freelancer Front-End Developer, i develop and design features or themes for brands on Shopify and also on Wordpress with WooCommerce.
 <br>
