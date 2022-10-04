@@ -4,7 +4,7 @@
 
 I work everyday has a Freelancer Front-End Developer, i develop and design for Shopify e-commerce brands <br> who want to start or are already existing. 
 
-Currently, i am trying to learn Blockchain Development on Ethereum and Solana using Solidity. <br>
+Currently, i am learning Blockchain Development on Ethereum and Solana using Solidity. <br>
 
 <hr></hr>
 
