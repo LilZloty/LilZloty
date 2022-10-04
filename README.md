@@ -35,7 +35,12 @@ HTML & CSS ✔️ </li>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <img align="center" alt="Node.js" title="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/54123008/193871776-a6f8728c-cc90-4043-b247-74c47b89ca80.png">
-<img align="center" src="https://user-images.githubusercontent.com/54123008/193871776-a6f8728c-cc90-4043-b247-74c47b89ca80.png" width="26px"></a>
+<img align="center" alt="Node.js" title="Node.js" width="26px" src="https://user-images.githubusercontent.com/54123008/193871776-a6f8728c-cc90-4043-b247-74c47b89ca80.png" width="26px"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/54123008/193874828-84195c56-d0e7-4eea-b36b-2db8c0143e6d.png">
+<img align="center" alt="Shopify" title="Shopify" width="26px"  src="https://user-images.githubusercontent.com/54123008/193874828-84195c56-d0e7-4eea-b36b-2db8c0143e6d.png"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/54123008/193874833-22654ddf-832c-4189-81fa-fa0d1bcc9d42.png">
+<img align="center" alt="Wordpress" title="Wordpress" width="26px"  src="https://user-images.githubusercontent.com/54123008/193874833-22654ddf-832c-4189-81fa-fa0d1bcc9d42.png"></a>
+
 </p>
 </li>
 <li>
