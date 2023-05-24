@@ -2,7 +2,7 @@
 <h1>  Hi there, It's Théo ! </h1>
 <h3>  I'm a French Front-end Developer (E-Commerce) 💻 <br> living in Mexico, Guadalajara.</h3>
 
-I work everyday has a Freelancer Front-End Developer, i develop and design features or themes for brands on Shopify, and also on Wordpress with WooCommerce.
+I work everyday has a Freelance Front-End Developer, i develop and design features or themes for brands on Shopify, and also on Wordpress with WooCommerce.
 <br>
 Currently, i am learning Blockchain Development on Ethereum and Solana using Solidity. <br>
 
