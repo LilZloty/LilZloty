@@ -4,7 +4,6 @@
 
 I work everyday has a Freelance Front-End Developer, i develop and design features or themes for brands on Shopify, and also on Wordpress with WooCommerce.
 <br>
-Currently, i am learning Blockchain Development on Ethereum and Solana using Solidity. <br>
 
 <hr></hr>
 
