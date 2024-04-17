@@ -11,7 +11,7 @@ I work everyday has a Freelance Front-End Developer, i develop and design featur
 <ul>
 <li> Certificates :<br>
   ✔️ HTML / CSS / SCSS / Javascript / Liquid / JSON / JQUERY<br>
-  ✔️ React js / Three.js / Bootstrap / Node.js / Shopify Hydrogen<br>
+  ✔️ React.JS / Next.JS / Three.js / Bootstrap / Node.js / Shopify Hydrogen<br>
   ✔️ Git/Github / VS Code / Shopify CLI 
   <br>
 <li> Openclassroom Certifications :<br>
