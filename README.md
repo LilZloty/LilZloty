@@ -2,95 +2,93 @@
   <img src="https://user-images.githubusercontent.com/54123008/193884991-84c64796-8dd2-439a-a8d9-68f55269ea0d.jpg" width="140" style="border-radius: 50%">
 </p>
 
-<h1 align="center">Theo Daudebourg</h1>
+# Theo Daudebourg
+**AI-Powered Shopify Performance Specialist**
 
-<p align="center">
-  <strong>AI-Powered Shopify Performance Specialist</strong>
-</p>
+7 years. 70+ stores. 3 languages. 3 markets.
 
-<p align="center">
-  <code>7 years</code> · <code>70+ stores</code> · <code>3 languages</code> · <code>3 markets</code>
-</p>
-
-<p align="center">
-  <a href="https://theodaudebourg.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7AB55C?style=flat-square" alt="Portfolio"></a>
-  <a href="https://github.com/LilZloty"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/theodaudebourg"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/theodaudebourg"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter"></a>
-</p>
+[Portfolio](https://theodaudebourg.vercel.app) · [LinkedIn](https://www.linkedin.com/in/theodaudebourg) · [Twitter](https://twitter.com/theodaudebourg)
 
 ---
 
-<h3 align="center">What I Do</h3>
+## Your Shopify Store Is Bleeding Money
 
-<p align="center">
-I fix slow pages, broken conversions, and invisible SEO - with AI-powered systems that actually work.
-</p>
+Slow load times. Broken conversions. Invisible to Google.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PageSpeed-90+-7AB55C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Conversions-+30%25-7AB55C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Approach-AI_Powered-7AB55C?style=for-the-badge" />
-</p>
+Every second of delay costs you 7% of conversions. Your competitors are ranking higher. Visitors leave before they even see your products.
 
-<p align="center">
-  <strong>Markets:</strong> US (English) · Europe (French) · LATAM (Spanish)<br>
-  <strong>Industries:</strong> Auto Parts · Cosmetics · Beauty · Food & Beverage · Hospital Equipment
-</p>
+**I fix that.**
+
+Speed optimization. Conversion audits. AI-powered SEO systems that actually work.
+
+Real numbers from real stores:
+- PageSpeed: 45 → 92 in 7 days
+- Conversions: 2.1% → 3.8% 
+- Organic traffic: +127% in 90 days
 
 ---
 
-<h3 align="center">Services</h3>
+## Services
 
-<div align="center">
+### Starter ($197-$497)
+Quick wins for immediate impact.
+- Performance Audit
+- Product SEO Sprint  
+- Launch Ready Pack
 
-| Starter | Growth | Scale |
-|:-------:|:------:|:-----:|
-| $197 - $497 | $1k - $5k | $3k+ |
-| Quick Wins Audit | Speed Sprint | AI SEO System |
-| Product SEO Sprint | Conversion Accelerator | Custom Development |
-| Launch Ready Pack | | |
+### Growth ($1k-$5k)
+Proven systems for scaling stores.
+- Speed Sprint (90+ PageSpeed guaranteed)
+- Conversion Accelerator
+- AI SEO Pipeline Setup
 
-</div>
-
----
-
-<h3 align="center">Tech</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Liquid-95BF47?style=flat-square&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-</p>
-
-<h4 align="center">AI & Systems</h4>
-
-<p align="center">
-I build AI systems, not prompts.<br>
-<code>Claude 3.5</code> · <code>GPT-4</code> · <code>Gemini</code> · <code>MiniMax</code> · <code>Local Models</code>
-</p>
-
-<p align="center">
-<em>I read papers. I test models. I break things. Then I ship.</em>
-</p>
+### Scale ($3k+)
+Custom development and ongoing optimization.
+- AI SEO System (bulk meta generation, automated content)
+- Custom Theme Development
+- Performance Retainer
 
 ---
 
-<h3 align="center">Why Me</h3>
+## Tech Stack
 
-<div align="center">
+**Frontend:** Shopify Liquid · TypeScript · React · Next.js · Tailwind
 
-| | Agencies | Fiverr | AI Tools | Me |
-|:-:|:-:|:-:|:-:|:-:|
-| **Price** | $10k+/mo | $50 | $99/mo | $197+ |
-| **Who works** | Junior | Unknown | Bot | Me |
-| **Gets business** | Maybe | No | No | Yes |
-| **Custom systems** | No | No | No | Yes |
+**AI Systems:** Claude 3.5 · GPT-4 · Gemini · MiniMax · Local Models
 
-</div>
+I build AI systems, not prompts. Custom pipelines that generate product descriptions, optimize meta tags, and automate SEO at scale.
+
+---
+
+## Markets
+
+- **US (English)** - Direct, results-focused optimization
+- **Europe (French)** - Premium positioning for international brands  
+- **LATAM (Spanish)** - Built systems for Mexico auto parts market
+
+Industries: Auto Parts · Cosmetics · Beauty · Food & Beverage · Hospital Equipment
+
+---
+
+## Why Work With Me
+
+**vs Agencies ($10k+/mo):** You work with me directly. No junior developers. No bloated teams. Same quality, fraction of the cost.
+
+**vs Fiverr ($50):** I understand business, not just code. Systems thinking, not band-aid fixes. Accountability and ongoing support.
+
+**vs AI Tools ($99/mo):** AI is my tool, not my replacement. Human strategy + AI execution = actual results. Custom pipelines, not cookie-cutter outputs.
+
+---
+
+## Let's Talk
+
+Got a slow store? Conversion issues? SEO invisibility?
+
+**[Book a Discovery Call](https://theodaudebourg.vercel.app)** or DM me on [Twitter](https://twitter.com/theodaudebourg).
+
+I'll be upfront about what's realistic. No sales pitch. Just honest assessment of what will actually move the needle for your store.
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LilZloty&color=7AB55C&style=flat-square&label=Views" alt="Profile views" />
