@@ -21,25 +21,28 @@
 
 ---
 
-### What I Do
+<h3 align="center">What I Do</h3>
 
+<p align="center">
 I fix slow pages, broken conversions, and invisible SEO - with AI-powered systems that actually work.
+</p>
 
-<table>
-  <tr>
-    <td align="center"><strong>90+</strong><br><sub>PageSpeed</sub></td>
-    <td align="center"><strong>+30%</strong><br><sub>Conversions</sub></td>
-    <td align="center"><strong>AI</strong><br><sub>Powered</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/PageSpeed-90+-7AB55C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Conversions-+30%25-7AB55C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Approach-AI_Powered-7AB55C?style=for-the-badge" />
+</p>
 
-**Markets:** US (English) · Europe (French) · LATAM (Spanish)
-
-**Industries:** Auto Parts · Cosmetics · Beauty · Food & Beverage · Hospital Equipment
+<p align="center">
+  <strong>Markets:</strong> US (English) · Europe (French) · LATAM (Spanish)<br>
+  <strong>Industries:</strong> Auto Parts · Cosmetics · Beauty · Food & Beverage · Hospital Equipment
+</p>
 
 ---
 
-### Services
+<h3 align="center">Services</h3>
+
+<div align="center">
 
 | Starter | Growth | Scale |
 |:-------:|:------:|:-----:|
@@ -48,74 +51,57 @@ I fix slow pages, broken conversions, and invisible SEO - with AI-powered system
 | Product SEO Sprint | Conversion Accelerator | Custom Development |
 | Launch Ready Pack | | |
 
----
-
-### Tech
-
-<details>
-<summary><strong>Shopify & Frontend</strong></summary>
-<br>
-
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
-![Liquid](https://img.shields.io/badge/Liquid-95BF47?style=flat-square&logo=shopify&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-</details>
-
-<details>
-<summary><strong>AI & Systems</strong></summary>
-<br>
-
-I build AI systems, not prompts.
-
-```
-Current:  Claude 3.5, GPT-4, Gemini, MiniMax, local models
-Testing:  new architectures, embedding strategies, RAG pipelines
-```
-
-**What I actually build:**
-- SEO pipelines processing 1000s of products
-- Content curation with RSS + AI filtering
-- Multi-model architectures
-- Vector embeddings for e-commerce search
-- Automated workflows that run themselves
-
-*I read papers. I test models. I break things. Then I ship.*
-
-</details>
-
-<details>
-<summary><strong>Design</strong></summary>
-<br>
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-
-</details>
+</div>
 
 ---
 
-### Why Me vs. Alternatives
+<h3 align="center">Tech</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Liquid-95BF47?style=flat-square&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+</p>
+
+<h4 align="center">AI & Systems</h4>
+
+<p align="center">
+I build AI systems, not prompts.<br>
+<code>Claude 3.5</code> · <code>GPT-4</code> · <code>Gemini</code> · <code>MiniMax</code> · <code>Local Models</code>
+</p>
+
+<p align="center">
+<em>I read papers. I test models. I break things. Then I ship.</em>
+</p>
+
+---
+
+<h3 align="center">Why Me</h3>
+
+<div align="center">
 
 | | Agencies | Fiverr | AI Tools | Me |
 |:-:|:-:|:-:|:-:|:-:|
 | **Price** | $10k+/mo | $50 | $99/mo | $197+ |
-| **Who does the work** | Junior | Unknown | Bot | Me |
-| **Understands business** | Maybe | No | No | Yes |
+| **Who works** | Junior | Unknown | Bot | Me |
+| **Gets business** | Maybe | No | No | Yes |
 | **Custom systems** | No | No | No | Yes |
+
+</div>
 
 ---
 
-### Stats
+<h3 align="center">Stats</h3>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=LilZloty&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=7AB55C&icon_color=7AB55C&hide_title=true&hide_rank=true" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=LilZloty&theme=dark&hide_border=true&background=0d1117&ring=7AB55C&fire=7AB55C&currStreakLabel=7AB55C" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LilZloty&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=7AB55C&icon_color=7AB55C" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LilZloty&theme=dark&hide_border=true&background=0d1117&ring=7AB55C&fire=7AB55C&currStreakLabel=7AB55C" alt="GitHub Streak" />
 </p>
 
 ---
