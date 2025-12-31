@@ -1,92 +1,173 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/54123008/193884991-84c64796-8dd2-439a-a8d9-68f55269ea0d.jpg" width="140" style="border-radius: 50%">
+  <img src="https://user-images.githubusercontent.com/54123008/193884991-84c64796-8dd2-439a-a8d9-68f55269ea0d.jpg" width="200" style="border-radius: 50%">
 </p>
 
-# Theo Daudebourg
-**AI-Powered Shopify Performance Specialist**
+<h1 align="center">Theo Daudebourg</h1>
 
-7 years. 70+ stores. 3 languages. 3 markets.
+<p align="center">
+  <strong>AI-Powered Shopify Performance Specialist</strong>
+</p>
 
-[Portfolio](https://theodaudebourg.vercel.app) · [LinkedIn](https://www.linkedin.com/in/theodaudebourg) · [Twitter](https://twitter.com/theodaudebourg)
+<p align="center">
+  <code>7 years</code> · <code>70+ stores</code> · <code>3 languages</code> · <code>3 markets</code>
+</p>
+
+<p align="center">
+  <a href="https://theodaudebourg.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7AB55C?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://github.com/LilZloty"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/theodaudebourg"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/theodaudebourg"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter"></a>
+</p>
 
 ---
 
-## Your Shopify Store Is Bleeding Money
+<h2 align="center">Your Shopify Store Is Bleeding Money</h2>
 
-Slow load times. Broken conversions. Invisible to Google.
+<p align="center">
+Slow load times. Broken conversions. Invisible to Google.<br>
+Every second of delay costs you 7% of conversions.
+</p>
 
-Every second of delay costs you 7% of conversions. Your competitors are ranking higher. Visitors leave before they even see your products.
+<p align="center"><strong>I fix that.</strong></p>
 
-**I fix that.**
+<p align="center">
+  <img src="https://img.shields.io/badge/PageSpeed-45_to_92-7AB55C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Conversions-2.1%25_to_3.8%25-7AB55C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Organic_Traffic-+127%25-7AB55C?style=for-the-badge" />
+</p>
 
-Speed optimization. Conversion audits. AI-powered SEO systems that actually work.
-
-Real numbers from real stores:
-- PageSpeed: 45 → 92 in 7 days
-- Conversions: 2.1% → 3.8% 
-- Organic traffic: +127% in 90 days
+<p align="center">
+  <em>Real numbers from real stores.</em>
+</p>
 
 ---
 
 ## Services
 
-### Starter ($197-$497)
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Starter
+**$197 - $497**
+
 Quick wins for immediate impact.
+
 - Performance Audit
-- Product SEO Sprint  
+- Product SEO Sprint
 - Launch Ready Pack
 
-### Growth ($1k-$5k)
+</td>
+<td width="33%" valign="top">
+
+### Growth
+**$1k - $5k**
+
 Proven systems for scaling stores.
-- Speed Sprint (90+ PageSpeed guaranteed)
+
+- Speed Sprint (90+ PageSpeed)
 - Conversion Accelerator
 - AI SEO Pipeline Setup
 
-### Scale ($3k+)
-Custom development and ongoing optimization.
-- AI SEO System (bulk meta generation, automated content)
+</td>
+<td width="33%" valign="top">
+
+### Scale
+**$3k+**
+
+Custom development and optimization.
+
+- AI SEO System
 - Custom Theme Development
 - Performance Retainer
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Tech Stack
 
-**Frontend:** Shopify Liquid · TypeScript · React · Next.js · Tailwind
+<p align="center">
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Liquid-95BF47?style=flat-square&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+</p>
 
-**AI Systems:** Claude 3.5 · GPT-4 · Gemini · MiniMax · Local Models
+<p align="center">
+  <strong>AI Systems:</strong> Claude 3.5 · GPT-4 · Gemini · MiniMax · Local Models
+</p>
 
-I build AI systems, not prompts. Custom pipelines that generate product descriptions, optimize meta tags, and automate SEO at scale.
+<p align="center">
+  <em>I build AI systems, not prompts. Custom pipelines for product descriptions, meta optimization, and SEO automation.</em>
+</p>
 
 ---
 
-## Markets
+## Markets & Industries
 
-- **US (English)** - Direct, results-focused optimization
-- **Europe (French)** - Premium positioning for international brands  
-- **LATAM (Spanish)** - Built systems for Mexico auto parts market
+<table>
+<tr>
+<td width="33%" align="center">
 
-Industries: Auto Parts · Cosmetics · Beauty · Food & Beverage · Hospital Equipment
+**US Market**<br>
+English<br>
+<sub>Direct, results-focused</sub>
+
+</td>
+<td width="33%" align="center">
+
+**European Market**<br>
+French<br>
+<sub>Premium positioning</sub>
+
+</td>
+<td width="33%" align="center">
+
+**LATAM Market**<br>
+Spanish<br>
+<sub>Mexico auto parts specialist</sub>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <strong>Industries:</strong> Auto Parts · Cosmetics · Beauty · Food & Beverage · Hospital Equipment
+</p>
 
 ---
 
 ## Why Work With Me
 
-**vs Agencies ($10k+/mo):** You work with me directly. No junior developers. No bloated teams. Same quality, fraction of the cost.
+| | Agencies | Fiverr | AI Tools | Me |
+|:---:|:---:|:---:|:---:|:---:|
+| **Price** | $10k+/mo | $50 | $99/mo | $197+ |
+| **Who works** | Junior dev | Unknown | Bot | Me directly |
+| **Business focus** | Maybe | No | No | Yes |
+| **Custom systems** | No | No | No | Yes |
 
-**vs Fiverr ($50):** I understand business, not just code. Systems thinking, not band-aid fixes. Accountability and ongoing support.
-
-**vs AI Tools ($99/mo):** AI is my tool, not my replacement. Human strategy + AI execution = actual results. Custom pipelines, not cookie-cutter outputs.
+**The difference:** You work with me directly. No account managers. No junior developers. Systems thinking, not band-aid fixes.
 
 ---
 
-## Let's Talk
+<h2 align="center">Let's Talk</h2>
 
+<p align="center">
 Got a slow store? Conversion issues? SEO invisibility?
+</p>
 
-**[Book a Discovery Call](https://theodaudebourg.vercel.app)** or DM me on [Twitter](https://twitter.com/theodaudebourg).
+<p align="center">
+  <a href="https://theodaudebourg.vercel.app"><img src="https://img.shields.io/badge/Book_Discovery_Call-7AB55C?style=for-the-badge" alt="Book Call"></a>
+</p>
 
-I'll be upfront about what's realistic. No sales pitch. Just honest assessment of what will actually move the needle for your store.
+<p align="center">
+  <sub>I'll be upfront about what's realistic. No sales pitch. Just honest assessment of what will move the needle for your store.</sub>
+</p>
 
 ---
 
