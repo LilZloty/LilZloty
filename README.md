@@ -54,9 +54,19 @@ Approach      AI-Powered
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### AI & Automation
-![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_3.5-000000?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B6B?style=flat-square)
+![Vector DBs](https://img.shields.io/badge/Vector_DBs-4A154B?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00C853?style=flat-square)
+
+**What I build with AI:**
+- Custom SEO pipelines for bulk product optimization
+- AI-powered content generation systems
+- Automated meta tag and description writers
+- Schema markup generators
+- RAG systems for knowledge-grounded responses
 
 ### Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -99,9 +109,9 @@ Approach      AI-Powered
 ## Let's Talk
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://theo-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th%C3%A9o-daudebourg-85373a177/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UChH_oneD9OKdCK-ChHFz-2w)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sotdg.contact@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/LilZloty)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theodaudebourg)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/theodaudebourg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LilZloty&color=7AB55C&style=flat-square&label=Profile+Views" alt="Profile views" />
