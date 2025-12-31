@@ -97,11 +97,15 @@ I build AI systems, not prompts.<br>
 <h3 align="center">Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LilZloty&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=7AB55C&icon_color=7AB55C" alt="GitHub Stats" />
+  <a href="https://github.com/LilZloty">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LilZloty&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=7AB55C&icon_color=7AB55C" alt="GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LilZloty&theme=dark&hide_border=true&background=0d1117&ring=7AB55C&fire=7AB55C&currStreakLabel=7AB55C" alt="GitHub Streak" />
+  <a href="https://github.com/LilZloty">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=LilZloty&theme=dark&hide_border=true&background=0d1117&ring=7AB55C&fire=7AB55C&currStreakLabel=7AB55C" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
